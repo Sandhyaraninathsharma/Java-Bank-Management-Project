@@ -1,10 +1,9 @@
 🏦 Bank Management System
-
 A Bank Management System built using Java Swing and Core Java that allows users to perform essential banking operations such as account creation, login, deposits, and withdrawals.
 
 This project demonstrates the use of Object-Oriented Programming (OOP) concepts, GUI development using Swing, and database connectivity through JDBC.
 
-🚀 Features
+🚀 Features Are:-
 
 🔐 User Authentication – Secure login and signup functionality.
 
